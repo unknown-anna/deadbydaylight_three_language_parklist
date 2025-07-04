@@ -6,10 +6,13 @@ You can switch language on filer tab, select survivor and killer on dropdown, an
 Try it out:
 [Dead By Daylight Perk Lists in English, Italian and Japanese](https://unknown-anna.github.io/deadbydaylight_three_language_parklist/)
 
+[Dead by Daylight](https://deadbydaylight.com/)
+
 ## Programming language used in this project
 - HTML
 - CSS
 - JavaScript
+
 
 # デッド・バイ・デイライト 英語、イタリア語、日本語パーク早見表
 
@@ -18,6 +21,8 @@ Try it out:
 
 使ってみる: 
 [デッド・バイ・デイライト３ヶ国語パーク早見表](https://unknown-anna.github.io/deadbydaylight_three_language_parklist/)
+
+[デッド・バイ・デイライト](https://deadbydaylight.com/)
 
 ## 開発に使用した言語
 - HTML
